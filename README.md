@@ -45,6 +45,7 @@ flutter_localizations => This library is used in configuring the languages
 -A menu to allow users manually switch the language and theme without system settings
 
 #APK
+https://appetize.io/embed/dozfdjj63im64qgby7j3eotlwy?device=pixel4&osVersion=11.0&scale=75&deviceColor=black
 
 #Challenge
 -My PC is slow and hence I had struggles running the application.
